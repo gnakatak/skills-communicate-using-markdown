@@ -6,3 +6,9 @@
 
 this is not a header
 ![gato foda](https://octodex.github.com/images/privateinvestocat.jpg)
+
+
+
+``` C
+int myInt = 10;
+```
